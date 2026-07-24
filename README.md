@@ -72,15 +72,7 @@ traveling when I get the chance, or spending time with friends and family.
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SStar2&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SStar2&layout=compact)
-
----
-
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 youremail@du.edu
+- 💼 [LinkedIn](https://www.linkedin.com/in/sophia-siraj/)
+- 📧 sophia.siraj@du.edu
