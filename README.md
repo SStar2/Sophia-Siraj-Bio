@@ -29,20 +29,19 @@ Lucidchart, Jira, Miro, Google Suite
 
 ## 🚀 Featured Projects
 
-### [Customer Risk Scoring System] - (https://github.com/SStar2/Customer-Risk-Scoring-System/tree/main)
+### [Customer Risk Scoring System](https://github.com/SStar2/Customer-Risk-Scoring-System/tree/main)
 A FICO-style credit risk scoring database built to model how financial institutions 
 assess customer risk.
 - **What I built:** 8 normalized tables, a view, a user-defined function, and a stored 
-procedure with 20 rows of sample data per table — plus 4 Windows Forms in VB.NET and 
+procedure with 20 rows of sample data per table. Along with 4 Windows Forms in VB.NET and 
 end-to-end SSRS reports with working risk tier and year filters
 - **Tools:** SQL, VB.NET, SSRS, Lucidchart, Visual Studio
 - **Why it matters:** Models the kind of risk assessment infrastructure used by 
 companies like FICO and Capital One to make data-driven credit decisions
 
-### [King County Housing Market Analysis] - (https://github.com/SStar2/King-County-Housing-Analysis)
+### [King County Housing Market Analysis](https://github.com/SStar2/King-County-Housing-Analysis)
 An exploratory data analysis of 21,000+ residential home sales in King County, WA.
-- **What I found:** Build quality grade was the strongest predictor of sale price — 
-top-grade homes averaged over 3x the price of the lowest-grade tier
+- **What I found:** Build quality grade was the strongest predictor of sale price, with top-grade homes averaged over 3x the price of the lowest-grade tier
 - **Tools:** Python, Pandas, Matplotlib, Excel
 - **Why it matters:** Demonstrates end-to-end data analysis from messy raw data to 
 clear, visual findings
