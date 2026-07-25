@@ -39,7 +39,7 @@ end-to-end SSRS reports with working risk tier and year filters
 - **Why it matters:** Models the kind of risk assessment infrastructure used by 
 companies like FICO and Capital One to make data-driven credit decisions
 
-### [King County Housing Market Analysis]
+### [King County Housing Market Analysis] - (https://github.com/SStar2/King-County-Housing-Analysis)
 An exploratory data analysis of 21,000+ residential home sales in King County, WA.
 - **What I found:** Build quality grade was the strongest predictor of sale price — 
 top-grade homes averaged over 3x the price of the lowest-grade tier
