@@ -29,7 +29,7 @@ Lucidchart, Jira, Miro, Google Suite
 
 ## 🚀 Featured Projects
 
-### [Customer Risk Scoring System](link to repo)
+### [Customer Risk Scoring System] - (https://github.com/SStar2/Customer-Risk-Scoring-System/tree/main)
 A FICO-style credit risk scoring database built to model how financial institutions 
 assess customer risk.
 - **What I built:** 8 normalized tables, a view, a user-defined function, and a stored 
@@ -39,7 +39,7 @@ end-to-end SSRS reports with working risk tier and year filters
 - **Why it matters:** Models the kind of risk assessment infrastructure used by 
 companies like FICO and Capital One to make data-driven credit decisions
 
-### [King County Housing Market Analysis](link to repo)
+### [King County Housing Market Analysis]
 An exploratory data analysis of 21,000+ residential home sales in King County, WA.
 - **What I found:** Build quality grade was the strongest predictor of sale price — 
 top-grade homes averaged over 3x the price of the lowest-grade tier
